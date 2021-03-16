@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af5d49f-a5c2-40e3-91a7-b27378d76444" name="Default" comment="P.61까지 학습">
+    <list default="true" id="7af5d49f-a5c2-40e3-91a7-b27378d76444" name="Default" comment="P.84까지 학습">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiPhilosophy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/WikiPhilosophy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/Index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../solutions/src/resources/en.wikipedia.org/wiki/Java_(Programming_Language)" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/src/resources/en.wikipedia.org/wiki/Java_(Programming_Language)" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +43,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.gradle.running" />
   </component>
-  <component name="RunManager" selected="Application.WikiPhilosophy">
-    <configuration name="MyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.MyLinkedList" />
+  <component name="RunManager" selected="Application.Index">
+    <configuration name="Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.Index" />
       <module name="code.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -52,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfileListAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.ProfileListAdd" />
+    <configuration name="TermCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.TermCounter" />
       <module name="code.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -131,19 +137,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyLinkedList" />
-      <item itemvalue="Application.ProfileListAdd" />
       <item itemvalue="Application.WikiFetcher" />
       <item itemvalue="Application.WikiPhilosophy" />
       <item itemvalue="Application.WikiNodeExample" />
+      <item itemvalue="Application.TermCounter" />
+      <item itemvalue="Application.Index" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Index" />
+        <item itemvalue="Application.TermCounter" />
         <item itemvalue="Application.WikiNodeExample" />
         <item itemvalue="Application.WikiPhilosophy" />
         <item itemvalue="Application.WikiFetcher" />
-        <item itemvalue="Application.ProfileListAdd" />
-        <item itemvalue="Application.MyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615393720535</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="P.84까지 학습">
+      <created>1615742103028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615742103028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -176,36 +189,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="P.61까지 학습" />
-    <option name="LAST_COMMIT_MESSAGE" value="P.61까지 학습" />
+    <MESSAGE value="P.84까지 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="P.84까지 학습" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1790" y="50" key="CommitChangelistDialog2" timestamp="1615393720373">
+    <state x="-1158" y="33" key="CommitChangelistDialog2" timestamp="1615742102848">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
-    <state x="-1790" y="50" key="CommitChangelistDialog2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615393720373" />
-    <state width="1230" height="293" key="GridCell.Tab.0.bottom" timestamp="1615742034032">
+    <state x="-1158" y="33" key="CommitChangelistDialog2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615742102848" />
+    <state width="1230" height="512" key="GridCell.Tab.0.bottom" timestamp="1615911390197">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.bottom/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749658" />
-    <state width="1230" height="293" key="GridCell.Tab.0.bottom/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615742034032" />
+    <state width="1230" height="512" key="GridCell.Tab.0.bottom/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615911390197" />
     <state width="1636" height="293" key="GridCell.Tab.0.bottom/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757409" />
-    <state width="1230" height="293" key="GridCell.Tab.0.center" timestamp="1615742034030">
+    <state width="1230" height="512" key="GridCell.Tab.0.center" timestamp="1615911390195">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.center/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749657" />
-    <state width="1230" height="293" key="GridCell.Tab.0.center/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615742034030" />
+    <state width="1230" height="512" key="GridCell.Tab.0.center/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615911390195" />
     <state width="1636" height="293" key="GridCell.Tab.0.center/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757408" />
-    <state width="1230" height="293" key="GridCell.Tab.0.left" timestamp="1615742034030">
+    <state width="1230" height="512" key="GridCell.Tab.0.left" timestamp="1615911390194">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.left/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749656" />
-    <state width="1230" height="293" key="GridCell.Tab.0.left/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615742034030" />
+    <state width="1230" height="512" key="GridCell.Tab.0.left/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615911390194" />
     <state width="1636" height="293" key="GridCell.Tab.0.left/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757407" />
-    <state width="1230" height="293" key="GridCell.Tab.0.right" timestamp="1615742034031">
+    <state width="1230" height="512" key="GridCell.Tab.0.right" timestamp="1615911390196">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.right/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749657" />
-    <state width="1230" height="293" key="GridCell.Tab.0.right/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615742034031" />
+    <state width="1230" height="512" key="GridCell.Tab.0.right/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615911390196" />
     <state width="1636" height="293" key="GridCell.Tab.0.right/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757408" />
     <state width="2516" height="519" key="GridCell.Tab.1.bottom" timestamp="1615393749650">
       <screen x="-2560" y="-135" width="2560" height="1417" />
@@ -231,10 +245,10 @@
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state x="-1150" y="142" key="SettingsEditor/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615739591193" />
-    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2" timestamp="1615393722888">
+    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2" timestamp="1615742104417">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
-    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615393722888" />
+    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615742104417" />
     <state x="-984" y="171" key="search.everywhere.popup" timestamp="1615740740731">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>

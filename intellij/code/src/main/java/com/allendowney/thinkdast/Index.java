@@ -10,6 +10,9 @@ import org.jsoup.select.Elements;
 
 /**
  * Encapsulates a map from search term to set of TermCounter.
+ * 구조
+ * index는 Map<String, Set<TermCounter>>이다. -> 여기서 Set은 label이 기준이다.
+ * TermCounter 은 label , Map<String, Integer> 를 갖는 객체이다.
  *
  * @author downey
  *
@@ -80,10 +83,14 @@ public class Index {
      */
     public void indexPage(String url, Elements paragraphs) {
         // TODO: Your code here
-
         // make a TermCounter and count the terms in the paragraphs
-
+        TermCounter termCounter = new TermCounter(url);
+        termCounter.processElements(paragraphs);
         // for each term in the TermCounter, add the TermCounter to the index
+
+        for (String key: termCounter.keySet()) {
+            add(key, termCounter);
+        }
     }
 
     /**

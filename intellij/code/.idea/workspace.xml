@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7af5d49f-a5c2-40e3-91a7-b27378d76444" name="Default" comment="P.94까지 학습">
+    <list default="true" id="7af5d49f-a5c2-40e3-91a7-b27378d76444" name="Default" comment="P.100까지 학습">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyLinearMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyLinearMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyBetterMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyBetterMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyTreeMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/allendowney/thinkdast/MyTreeMapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../solutions/src/resources/en.wikipedia.org/wiki/Java_(Programming_Language)" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/src/resources/en.wikipedia.org/wiki/Java_(Programming_Language)" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +48,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.gradle.running" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="Application.MyLinearMap">
-    <configuration name="Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.Index" />
+  <component name="RunManager" selected="JUnit.MyTreeMapTest">
+    <configuration name="MyTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.MyTreeMap" />
       <module name="code.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -52,50 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyLinearMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.MyLinearMap" />
-      <module name="code.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.allendowney.thinkdast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TermCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.TermCounter" />
-      <module name="code.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.allendowney.thinkdast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WikiNodeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.WikiNodeExample" />
-      <module name="code.main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.allendowney.thinkdast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WikiPhilosophy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.WikiPhilosophy" />
+    <configuration name="MyTreeMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.MyTreeMapExample" />
       <module name="code.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -110,6 +81,55 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allendowney.thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.allendowney.thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.MyHashMapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTreeMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allendowney.thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.allendowney.thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.MyTreeMapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTreeMapTest.testPutAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allendowney.thinkdast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.allendowney.thinkdast" />
+      <option name="MAIN_CLASS_NAME" value="com.allendowney.thinkdast.MyTreeMapTest" />
+      <option name="METHOD_NAME" value="testPutAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WikiPhilosophy" />
-      <item itemvalue="Application.WikiNodeExample" />
-      <item itemvalue="Application.TermCounter" />
-      <item itemvalue="Application.Index" />
-      <item itemvalue="Application.MyLinearMap" />
+      <item itemvalue="JUnit.MyHashMapTest" />
+      <item itemvalue="Application.MyTreeMapExample" />
+      <item itemvalue="Application.MyTreeMap" />
+      <item itemvalue="JUnit.MyTreeMapTest" />
+      <item itemvalue="JUnit.MyTreeMapTest.testPutAll" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyLinearMap" />
-        <item itemvalue="Application.Index" />
-        <item itemvalue="Application.TermCounter" />
-        <item itemvalue="Application.WikiNodeExample" />
-        <item itemvalue="Application.WikiPhilosophy" />
+        <item itemvalue="JUnit.MyTreeMapTest" />
+        <item itemvalue="JUnit.MyTreeMapTest.testPutAll" />
+        <item itemvalue="Application.MyTreeMap" />
+        <item itemvalue="Application.MyTreeMapExample" />
+        <item itemvalue="JUnit.MyHashMapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -180,81 +200,88 @@
       <option name="project" value="LOCAL" />
       <updated>1615911626242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="P.100까지 학습">
+      <created>1615998780690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615998780690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="ListClientExampleTest - 2018.04.28 at 22h 17m 53s.xml">
-      <configuration name="ListClientExampleTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="P.61까지 학습" />
     <MESSAGE value="P.84까지 학습" />
     <MESSAGE value="P.94까지 학습" />
-    <option name="LAST_COMMIT_MESSAGE" value="P.94까지 학습" />
+    <MESSAGE value="P.100까지 학습" />
+    <option name="LAST_COMMIT_MESSAGE" value="P.100까지 학습" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1280" y="-21" key="CommitChangelistDialog2" timestamp="1615911626067">
+    <state x="-1280" y="-21" key="CommitChangelistDialog2" timestamp="1615998780510">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
-    <state x="-1280" y="-21" key="CommitChangelistDialog2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615911626067" />
-    <state width="1098" height="512" key="GridCell.Tab.0.bottom" timestamp="1615998313750">
+    <state x="-1280" y="-21" key="CommitChangelistDialog2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615998780510" />
+    <state width="1000" height="512" key="GridCell.Tab.0.bottom" timestamp="1616329771902">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.bottom/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749658" />
-    <state width="1098" height="512" key="GridCell.Tab.0.bottom/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615998313750" />
+    <state width="1000" height="512" key="GridCell.Tab.0.bottom/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616329771902" />
     <state width="1636" height="293" key="GridCell.Tab.0.bottom/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757409" />
-    <state width="1098" height="512" key="GridCell.Tab.0.center" timestamp="1615998313748">
+    <state width="1000" height="512" key="GridCell.Tab.0.center" timestamp="1616329771900">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.center/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749657" />
-    <state width="1098" height="512" key="GridCell.Tab.0.center/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615998313748" />
+    <state width="1000" height="512" key="GridCell.Tab.0.center/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616329771900" />
     <state width="1636" height="293" key="GridCell.Tab.0.center/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757408" />
-    <state width="1098" height="512" key="GridCell.Tab.0.left" timestamp="1615998313747">
+    <state width="1000" height="512" key="GridCell.Tab.0.left" timestamp="1616329771900">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.left/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749656" />
-    <state width="1098" height="512" key="GridCell.Tab.0.left/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615998313747" />
+    <state width="1000" height="512" key="GridCell.Tab.0.left/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616329771900" />
     <state width="1636" height="293" key="GridCell.Tab.0.left/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757407" />
-    <state width="1098" height="512" key="GridCell.Tab.0.right" timestamp="1615998313749">
+    <state width="1000" height="512" key="GridCell.Tab.0.right" timestamp="1616329771901">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="293" key="GridCell.Tab.0.right/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749657" />
-    <state width="1098" height="512" key="GridCell.Tab.0.right/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615998313749" />
+    <state width="1000" height="512" key="GridCell.Tab.0.right/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616329771901" />
     <state width="1636" height="293" key="GridCell.Tab.0.right/-2560.-158.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1615392757408" />
-    <state width="2516" height="519" key="GridCell.Tab.1.bottom" timestamp="1615393749650">
-      <screen x="-2560" y="-135" width="2560" height="1417" />
+    <state width="1000" height="519" key="GridCell.Tab.1.bottom" timestamp="1616327894674">
+      <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="519" key="GridCell.Tab.1.bottom/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749650" />
-    <state width="2516" height="519" key="GridCell.Tab.1.bottom/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615392985100" />
-    <state width="2516" height="519" key="GridCell.Tab.1.center" timestamp="1615393749648">
-      <screen x="-2560" y="-135" width="2560" height="1417" />
+    <state width="1000" height="519" key="GridCell.Tab.1.bottom/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616327894674" />
+    <state width="1000" height="519" key="GridCell.Tab.1.center" timestamp="1616327894673">
+      <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="519" key="GridCell.Tab.1.center/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749648" />
-    <state width="2516" height="519" key="GridCell.Tab.1.center/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615392985099" />
-    <state width="2516" height="519" key="GridCell.Tab.1.left" timestamp="1615393749648">
-      <screen x="-2560" y="-135" width="2560" height="1417" />
+    <state width="1000" height="519" key="GridCell.Tab.1.center/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616327894673" />
+    <state width="1000" height="519" key="GridCell.Tab.1.left" timestamp="1616327894672">
+      <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="519" key="GridCell.Tab.1.left/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749648" />
-    <state width="2516" height="519" key="GridCell.Tab.1.left/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615392985098" />
-    <state width="2516" height="519" key="GridCell.Tab.1.right" timestamp="1615393749649">
-      <screen x="-2560" y="-135" width="2560" height="1417" />
+    <state width="1000" height="519" key="GridCell.Tab.1.left/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616327894672" />
+    <state width="1000" height="519" key="GridCell.Tab.1.right" timestamp="1616327894673">
+      <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
     <state width="2516" height="519" key="GridCell.Tab.1.right/-2560.-135.2560.1417/0.23.1680.990@-2560.-135.2560.1417" timestamp="1615393749649" />
-    <state width="2516" height="519" key="GridCell.Tab.1.right/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615392985100" />
-    <state x="-1150" y="142" key="SettingsEditor" timestamp="1615739591193">
+    <state width="1000" height="519" key="GridCell.Tab.1.right/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616327894673" />
+    <state x="-1150" y="142" key="SettingsEditor" timestamp="1616308855437">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
-    <state x="-1150" y="142" key="SettingsEditor/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615739591193" />
-    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2" timestamp="1615911627568">
+    <state x="-1150" y="142" key="SettingsEditor/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616308855437" />
+    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2" timestamp="1615998782101">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
-    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615911627568" />
-    <state x="-984" y="171" key="search.everywhere.popup" timestamp="1615740740731">
+    <state x="-1681" y="299" key="Vcs.Push.Dialog.v2/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615998782101" />
+    <state x="-816" y="307" width="588" height="510" key="find.popup" timestamp="1616330057557">
       <screen x="-2560" y="-158" width="2560" height="1440" />
     </state>
-    <state x="-984" y="171" key="search.everywhere.popup/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1615740740731" />
+    <state x="-816" y="307" width="588" height="510" key="find.popup/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616330057557" />
+    <state x="-984" y="171" width="687" height="678" key="search.everywhere.popup" timestamp="1616327002893">
+      <screen x="-2560" y="-158" width="2560" height="1440" />
+    </state>
+    <state x="-984" y="171" width="687" height="678" key="search.everywhere.popup/-2560.-158.2560.1440/0.0.1680.1050@-2560.-158.2560.1440" timestamp="1616327002893" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

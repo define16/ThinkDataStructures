@@ -41,6 +41,18 @@ public class MyHashMap<K, V> extends MyBetterMap<K, V> implements Map<K, V> {
 	 */
 	protected void rehash() {
 		// TODO: FILL THIS IN!
+		List<MyLinearMap<K, V>> oldMaps = maps;
+
+		int newK = maps.size() * 2;  // 2배의 크기를 갖는 k 생성
+		makeMaps(newK); // map 생성
+
+		// 데이터 이동
+		for (MyLinearMap<K, V> map : oldMaps) {
+			for (Map.Entry<K, V> entry : map.getEntries()) {
+				put(entry.getKey(), entry.getValue());
+			}
+		}
+
 	}
 
 	/**

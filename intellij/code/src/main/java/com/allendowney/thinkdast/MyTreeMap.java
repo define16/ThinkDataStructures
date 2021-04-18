@@ -145,16 +145,14 @@ public class MyTreeMap<K, V> implements Map<K, V> {
         return set;
     }
 
-    private void keySetHelper(Set<K> set, Node node){
-		if (node.left != null && !set.contains(node.left.key)){
-			keySetHelper(set, node.left);
-		}
-		if (node.right != null && !set.contains(node.right.key)){
-			set.add(node.key);
-			keySetHelper(set, node.right);
-		}
-		set.add(node.key);
-
+    private void keySetHelper(Set<K> set, Node node) {
+        // 중위 순회
+        if (node == null) {
+            return;
+        }
+        keySetHelper(set, node.left);
+        set.add(node.key);
+        keySetHelper(set, node.right);
 	}
 
     @Override
